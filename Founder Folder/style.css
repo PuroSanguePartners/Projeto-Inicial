@@ -1,0 +1,72 @@
+/* corpo das paginas */
+
+body{
+background-color: aliceblue;
+background-image: url(./Imagens/infinitelogo1.png);
+background-repeat: no-repeat;
+background-position: bottom right;
+
+}
+
+/* parágrafos */
+
+p{color: navy;
+
+
+
+
+}
+
+/* tabelas*/
+
+table, th, td { 
+
+border: 1px; color: navy;
+border-collapse: collapse;
+
+
+}
+
+/* títulos*/
+
+h1{
+color: navy;
+
+
+
+}
+/* teste*/
+#azul{
+    background-color: blue;
+    background-image: url(./Imagens/infinitelogo1.png);
+
+
+
+}
+
+/* Navs*/
+
+#nav{
+    color: black;
+    height: 100px;
+    background-image: url(./Imagens/Design\ sem\ nome.png);
+    background-position: center;
+    background-repeat: no-repeat;
+   
+    
+    }
+
+
+
+    /* tables*/
+
+     th, td {
+border: 3px solid navy;
+border-collapse: collapse;
+color: navy;
+
+
+
+
+
+    }
